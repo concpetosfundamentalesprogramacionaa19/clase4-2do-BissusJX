@@ -10,4 +10,4 @@ for i in range(1,limite+1):
     print(i)
     valor = generar_potencia(i, 2)
     print(valor)
-    print("--------------------")
+    print("-----------1---------")
